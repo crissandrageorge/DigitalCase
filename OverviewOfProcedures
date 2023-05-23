@@ -14,6 +14,9 @@ cd kelvin\smith\library
 rsync --progress --chmod=g+rw * batch@ingest.case.edu:/home/batch/
 ```
 ** ask repo developer for the password **
+
+
+
 # Create a New Collection
 1. ingest.case.edu
 1. log into VPN
@@ -24,7 +27,8 @@ rsync --progress --chmod=g+rw * batch@ingest.case.edu:/home/batch/
 1. New Collections = collections, if not, choose the option 
 1. Leave "Collection PID" blank which prompts our handle server to create a unique numerical PID.
 
->XACML policies are how we set permissions on viewing objects. When creating a collection, you can inherit the XACML policy from the collection it is nested under. In this case, our new collection is nested under the Kelvin Smith Library collection.
+> XACML policies are how we set permissions on viewing objects. When creating a collection, you can inherit the XACML 
+policy from the collection it is nested under. In this case, our new collection is nested under the Kelvin Smith Library collection.
 
 1. In almost all cases, you will check yes to inherit the collection policy and then select the name of the parent collection from the drop down menu. Scenarios where this is not applicable are outlined in the ingest procedures page.
 1. This page is a metadata form that maps to a MODS record. Fill out the information you know about the collection according to the collection-level metadata guidelines found here. At the end of the form, click on the "Ingest" button to complete the process.
