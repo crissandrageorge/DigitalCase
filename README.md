@@ -3,5 +3,5 @@
 
 > Overview of Procedures will guide us through the current version of Islandora that is currently in place. 
 
-* Additional notes were taken concerning other topics associated with DigitalCase.* 
+**Additional notes were taken concerning other topics associated with DigitalCase.** 
 
