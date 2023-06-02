@@ -10,6 +10,11 @@
 cd\Volumes
 cd kelvin\smith\library
 ```
+1. Navigate to the files and then upload it to the ingest server by using:
+```
+rsync --progress --chmod=g+rw * batch@ingest.case.edu:/home/batch/
+```
+- pass- batch doble
 
 1. Fill in the Technical Metadata on the Google Sheet
 - Column A is the titled parent where the collection will live
