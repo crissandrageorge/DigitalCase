@@ -5,3 +5,11 @@
 
 **Additional notes were taken concerning other topics associated with DigitalCase.** 
 
+### Review of Using Git
+```
+git add [filename]
+git committ -m "[add message in quotes]"
+git push origin main
+git status
+```
+
