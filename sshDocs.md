@@ -22,3 +22,16 @@ cd cxg570
 ## Additional Notes
 - C-------97$
 - name as other option 
+
+
+## Frontend
+
+1. ssh into ingest
+1. ssh into frontend
+- llave
+
+
+## Backend
+1. ssh into as normal
+- llave
+
